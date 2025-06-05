@@ -229,7 +229,7 @@ I saved the final tuned Random Forest model and deployed it using Flask web app.
 
 The final app shows churning probability, gauge chart of how severe a customer is and shap values based on customer's data. The final app layout can be seen above.  
 
-- [<ins><b>©2023 Ashutosh Dash. All rights reserved</b></ins>](https://www.linkedin.com/in/ashutoshdash99/)
+- [<ins><b>©2025 Ashutosh Dash. All rights reserved</b></ins>](https://www.linkedin.com/in/ashutoshdash99/)
 
 
 
